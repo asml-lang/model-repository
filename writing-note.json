@@ -1,0 +1,16 @@
+{
+  "asml": "1.0.0",
+  "info": {
+    "title": "writing-note",
+    "version": "1.0.0"
+  },
+  "properties": {
+    "text": {
+      "description": "content of the note",
+      "type": "string"
+    }
+  },
+  "required": [
+    "text"
+  ]
+}
